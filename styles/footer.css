@@ -3,6 +3,7 @@ footer {
   gap: 364px;
   padding-block: 7px;
   margin-bottom: 50px;
+  font: 12px/150% var(--font-family);
 }
 footer span:nth-child(1) {
   margin-right: auto;
