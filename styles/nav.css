@@ -3,14 +3,19 @@
   display: flex;
   align-items: center;
   align-items: center;
-  gap: 24px;
+  gap: 20px;
   padding-block: 10px;
 
  }
 nav ul img {
-  width: 20px;
-  height: 20px;
+  width: 29px;
+  height: 29px;
   border-radius: 50%;
+  align-items: center
+}
+div img {
+  width: 180px;
+  height: 180px;
   align-items: center;
 }
 

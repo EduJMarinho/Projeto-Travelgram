@@ -21,9 +21,10 @@
 --text-h1: bold 36px/100% var(--font-family);
 --text-h2: bold 32px/100% var(--font-family);
 --text-h3: bold 28px/100% var(--font-family);
---text-headline: bold 16px/100% var(--font-family);
---text-paragraph: normal 16px/100% var(--font-family);
---text-subtitle: italic 16px/100% var(--font-family);
+--text-headline: bold 16px/130% var(--font-family);
+--text-indice: bold 32px/170% var(--font-family);
+--text-paragraph: normal 16px/130% var(--font-family);
+--text-subtitle: italic 16px/130% var(--font-family);
 
 }
 body {

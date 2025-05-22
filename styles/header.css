@@ -1,0 +1,31 @@
+header {
+  padding-block: 32px;
+}
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#profile {
+  display: flex;
+  align-items:center ;
+  gap: 72px;
+}
+#profile > div {
+max-width: 384px;
+}
+ #profile h1 {
+  color: var(--text-color-tertiary);
+  font: var(--text-indice)
+ }
+ #profile h1 {
+  margin-bottom: 10px;
+ }
+ #profile p {
+  font: var(--text-paragraph);
+ }
+ #info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;  
+ }
