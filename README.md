@@ -29,5 +29,8 @@ Ideal para portfólios, blogs visuais ou projetos de estudo em HTML/CSS.
 
 ---
 
-
+🧠 Analisar 📚 Aprender ❌ Errar  
+    🔁 Refatorar  🛠️ Construirr  
+    ->   ->   ->   ->   ->   ->   ->    
+→ Esse é o caminho do Dev. — Edu Marinho
 
